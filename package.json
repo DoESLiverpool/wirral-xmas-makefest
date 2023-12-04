@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mapshaper": "^0.6.52",
+    "osmtogeojson": "^3.0.0-beta.5",
+    "paper": "^0.12.17",
+    "yargs": "^17.7.2"
+  }
+}
